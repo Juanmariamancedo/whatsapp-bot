@@ -1,0 +1,743 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: 'A5F47D98B7BC9563DD022019B76E3D86',
+    participant: undefined
+  },
+  messageTimestamp: 1693752465,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0ddf6311-3721-4eef-b037-9c7da661587a',
+  keyword: 'key_bae45879-6b03-452e-a479-731b0351f68f',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) el *trato* recibido por el personal?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4db982a4b5caaced33428b8cb9afb50c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: 'B3F5F310B9F4346471AC26AF1374FAC8',
+    participant: undefined
+  },
+  messageTimestamp: 1693752468,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b20675f2-7d50-4e47-bb81-5e18809f0e0d',
+  keyword: 'ans_0ddf6311-3721-4eef-b037-9c7da661587a',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor)  la *organización* del servicio oficial?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e481c97b7148162e6d33c06a7a04b7ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: '8CF2AED2F3749FD5AC3FE6DB2A87BF64',
+    participant: undefined
+  },
+  messageTimestamp: 1693752471,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f8b9d4c5-c57d-42b6-8671-293b2af286f7',
+  keyword: 'ans_b20675f2-7d50-4e47-bb81-5e18809f0e0d',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) la *calidad* del servicio realizado en su vehículo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f180e9f53b3393878e004d8c1838785'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: 'D4DCB21DBF13C34BACECF62DF8A64D06',
+    participant: undefined
+  },
+  messageTimestamp: 1693752473,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_20d388bf-1e66-494d-90fb-d660d4807497',
+  keyword: 'ans_f8b9d4c5-c57d-42b6-8671-293b2af286f7',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) el servicio de Sebastiani en *general?*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd15fd5330db91a206ac93a2a29d1ecdd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: '6E38811124FC9722E24701F90052C960',
+    participant: undefined
+  },
+  messageTimestamp: 1693752476,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1385fb5-e65b-4cb6-8899-1649e4ffe878',
+  keyword: 'ans_20d388bf-1e66-494d-90fb-d660d4807497',
+  answer: '¿Qué aspectos *destacarías* o *mejorarías* sobre su visita?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd78f4a5d73794eb88871e559414fa3d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: '8F63D96D26AACC63315A29F4D020C544',
+    participant: undefined
+  },
+  messageTimestamp: 1693752479,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ninguno',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ninguno',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91f79a3f-888f-43b4-9a2f-39d5d825fdb2',
+  keyword: 'ans_f1385fb5-e65b-4cb6-8899-1649e4ffe878',
+  answer: 'Okey, terminamos la encuesta. Muchas gracias por su tiempo!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b8ea2348429554de1d63349510eef249'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: '455AEB6664AFF3617DC70F5F4F7F7D8F',
+    participant: undefined
+  },
+  messageTimestamp: 1693752495,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0ddf6311-3721-4eef-b037-9c7da661587a',
+  keyword: 'key_bae45879-6b03-452e-a479-731b0351f68f',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) el *trato* recibido por el personal?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4db982a4b5caaced33428b8cb9afb50c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: '54CBDCDD28982D0B2A70719834E47FB8',
+    participant: undefined
+  },
+  messageTimestamp: 1693752500,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b20675f2-7d50-4e47-bb81-5e18809f0e0d',
+  keyword: 'ans_0ddf6311-3721-4eef-b037-9c7da661587a',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor)  la *organización* del servicio oficial?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e481c97b7148162e6d33c06a7a04b7ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: 'A899A802366EB549C61744058AE9937C',
+    participant: undefined
+  },
+  messageTimestamp: 1693752503,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f8b9d4c5-c57d-42b6-8671-293b2af286f7',
+  keyword: 'ans_b20675f2-7d50-4e47-bb81-5e18809f0e0d',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) la *calidad* del servicio realizado en su vehículo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f180e9f53b3393878e004d8c1838785'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: 'E9D5873FAF1C06E1D0CDD13690E65CA9',
+    participant: undefined
+  },
+  messageTimestamp: 1693752507,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '5493794611487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: 'F736F26A068101458D4726EEC62C816C',
+    participant: undefined
+  },
+  messageTimestamp: 1693752510,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_20d388bf-1e66-494d-90fb-d660d4807497',
+  keyword: 'ans_f8b9d4c5-c57d-42b6-8671-293b2af286f7',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) el servicio de Sebastiani en *general?*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd15fd5330db91a206ac93a2a29d1ecdd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: '70D2A8C97B2E9FA8C00E4CF820DE403C',
+    participant: undefined
+  },
+  messageTimestamp: 1693752514,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '5493794611487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: '1C1C97F5C9E0B8F0239B379F0D1FF781',
+    participant: undefined
+  },
+  messageTimestamp: 1693752517,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1385fb5-e65b-4cb6-8899-1649e4ffe878',
+  keyword: 'ans_20d388bf-1e66-494d-90fb-d660d4807497',
+  answer: '¿Qué aspectos *destacarías* o *mejorarías* sobre su visita?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd78f4a5d73794eb88871e559414fa3d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794611487@s.whatsapp.net',
+    fromMe: false,
+    id: 'E8DF6F5692C7BDF2AC9224342CF49127',
+    participant: undefined
+  },
+  messageTimestamp: 1693752521,
+  pushName: 'Ana Lugo De Langhe',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ninguno',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ninguno',
+  from: '5493794611487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91f79a3f-888f-43b4-9a2f-39d5d825fdb2',
+  keyword: 'ans_f1385fb5-e65b-4cb6-8899-1649e4ffe878',
+  answer: 'Okey, terminamos la encuesta. Muchas gracias por su tiempo!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b8ea2348429554de1d63349510eef249'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794321463@s.whatsapp.net',
+    fromMe: false,
+    id: '90AA6B3BB320C9C56A6240ECF79BC106',
+    participant: undefined
+  },
+  messageTimestamp: 1693753209,
+  pushName: 'Ana',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5493794321463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0ddf6311-3721-4eef-b037-9c7da661587a',
+  keyword: 'key_bae45879-6b03-452e-a479-731b0351f68f',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) el *trato* recibido por el personal?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4db982a4b5caaced33428b8cb9afb50c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794321463@s.whatsapp.net',
+    fromMe: false,
+    id: '6558E4C59EF9DAFFB8AD8F855898C1C1',
+    participant: undefined
+  },
+  messageTimestamp: 1693753217,
+  pushName: 'Ana',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493794321463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b20675f2-7d50-4e47-bb81-5e18809f0e0d',
+  keyword: 'ans_0ddf6311-3721-4eef-b037-9c7da661587a',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor)  la *organización* del servicio oficial?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e481c97b7148162e6d33c06a7a04b7ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794321463@s.whatsapp.net',
+    fromMe: false,
+    id: 'F39D2B72BDB22E48DD718EB1A44F1C8E',
+    participant: undefined
+  },
+  messageTimestamp: 1693753225,
+  pushName: 'Ana',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '0',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '5493794321463'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794321463@s.whatsapp.net',
+    fromMe: false,
+    id: '9BC65616EA48EA9566D19D9C71A8CD65',
+    participant: undefined
+  },
+  messageTimestamp: 1693753229,
+  pushName: 'Ana',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493794321463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f8b9d4c5-c57d-42b6-8671-293b2af286f7',
+  keyword: 'ans_b20675f2-7d50-4e47-bb81-5e18809f0e0d',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) la *calidad* del servicio realizado en su vehículo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f180e9f53b3393878e004d8c1838785'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794321463@s.whatsapp.net',
+    fromMe: false,
+    id: 'E6292F6699923920F4DBB76F6BE4DB0F',
+    participant: undefined
+  },
+  messageTimestamp: 1693753236,
+  pushName: 'Ana',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493794321463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_20d388bf-1e66-494d-90fb-d660d4807497',
+  keyword: 'ans_f8b9d4c5-c57d-42b6-8671-293b2af286f7',
+  answer: '¿Cómo puntuaría del 1 al 5(mayor) el servicio de Sebastiani en *general?*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd15fd5330db91a206ac93a2a29d1ecdd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794321463@s.whatsapp.net',
+    fromMe: false,
+    id: '43DF361157A61413EE1A82A6052F944D',
+    participant: undefined
+  },
+  messageTimestamp: 1693753241,
+  pushName: 'Ana',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '-1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '-1',
+  from: '5493794321463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f1385fb5-e65b-4cb6-8899-1649e4ffe878',
+  keyword: 'ans_20d388bf-1e66-494d-90fb-d660d4807497',
+  answer: '¿Qué aspectos *destacarías* o *mejorarías* sobre su visita?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd78f4a5d73794eb88871e559414fa3d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493794321463@s.whatsapp.net',
+    fromMe: false,
+    id: '7AA612B80E307AFE471B117104988CBB',
+    participant: undefined
+  },
+  messageTimestamp: 1693753256,
+  pushName: 'Ana',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'El que atiende',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'El que atiende',
+  from: '5493794321463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91f79a3f-888f-43b4-9a2f-39d5d825fdb2',
+  keyword: 'ans_f1385fb5-e65b-4cb6-8899-1649e4ffe878',
+  answer: 'Okey, terminamos la encuesta. Muchas gracias por su tiempo!!!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b8ea2348429554de1d63349510eef249'
+}
